@@ -1,7 +1,7 @@
 CXX = g++
 CXXFLAGS = -std=c++17 -Wall -O2
 TARGET = main
-SRC = src/forecast.cpp
+SRC = src/mutex.cpp
 
 all: $(TARGET)
 
